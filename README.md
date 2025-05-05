@@ -7,6 +7,8 @@
 
 Easily package your Meteor apps with Electron, and *butter*.
 
+This package was not maintained for a long time and is archived now.
+
 ## TL;DR
 
 ````shell
